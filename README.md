@@ -6,7 +6,7 @@ modelled on Bloom Public Health's operations — Nigeria's leading supply chain 
 firm and winner of the West Africa Brand Excellence Award 2025.
 
 ## Dataset
-- **Rows:** ~700 records
+- **Rows:** ~2000 records
 - **Source:** Synthetic dataset based on real Nigerian pharma supply chain challenges
 - **Coverage:** 36 states + FCT, multiple facility types (PHC, General Hospital, Teaching Hospital)
 - **Medicines:** Antimalarials, ARVs, Antibiotics, Vaccines, Analgesics
