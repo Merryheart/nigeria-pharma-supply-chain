@@ -31,6 +31,9 @@ firm and winner of the West Africa Brand Excellence Award 2025.
 - Python (cleaning, analysis & exploration)
 - Power BI (dashboard)
 - GitHub (version control & documentation)
+- ## Notebooks
+- `01_data_cleaning.ipynb` — Data quality audit and logic-based cleaning
+- `02_analysis.ipynb` — Statistical analysis across 4 angles: stockout risk, cold chain, regional disparities, track & trace
 
 ## Status
 🔄 In Progress
