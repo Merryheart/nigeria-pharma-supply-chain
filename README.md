@@ -44,11 +44,19 @@ firm and winner of the West Africa Brand Excellence Award 2025.
 ## Status
 ✅ Complete
 
-## Key Findings
-- Only **26% of medicines** are healthy stock — 42% are expired
-- **North West** has 4x more at-risk medicines than South West (42.3% vs 9.8%)
-- Cold chain failure leads to **5x more wastage** (34.88% vs 6.77%)
-- **0% counterfeit risk** where Track & Trace is enabled vs 2.85% where untracked
-- Only **17.5%** of medicines have Track & Trace enabled
-- **PHCs experience the most stockouts** — 3.15 events per 6 months on average
-- North West facilities have only **27.5 days of stock remaining** vs 114.7 days in South West
+## Why This Matters
+
+Somewhere in Nigeria right now, a PHC is out of antimalarials. Not because the medicines don't exist, but because the system meant to deliver them broke down somewhere between the warehouse and the shelf.
+
+Bad logistics is a public health crisis. And for too long, it's been invisible.
+
+This project tries to make it visible. The data shows what that breakdown actually looks like in numbers:
+
+- **42% of medicines in this dataset are expired** — not stolen, not missing. Just wasted while patients go without.
+- **PHCs have the highest stockout rates** — the facilities closest to underserved communities are the most exposed.
+- **North West facilities have 27.5 days of stock left.** South West has 114.7. That's not a mere gap, it's a different reality entirely.
+- **Cold chain failure drives 5x more wastage.** For vaccines especially, there's no recovering from that.
+- **Track & Trace eliminates counterfeit risk where it's used** — but only 17.5% of medicines are tracked at all.
+
+The solutions aren't out of reach. The data exists. The tools exist. What this analysis argues, quietly but clearly, is that we can't keep managing a life-or-death supply chain on guesswork.
+
