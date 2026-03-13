@@ -34,6 +34,21 @@ firm and winner of the West Africa Brand Excellence Award 2025.
 - ## Notebooks
 - `01_data_cleaning.ipynb` — Data quality audit and logic-based cleaning
 - `02_analysis.ipynb` — Statistical analysis across 4 angles: stockout risk, cold chain, regional disparities, track & trace
+- ## Dashboard
+
+![Overview](dashboard/overview.png)
+![Stockout & Supply Risk](dashboard/stockout_supply_risk.png)
+![Cold Chain & Regional](dashboard/cold_chain_regional.png)
+![Track & Trace](dashboard/track_trace_counterfeit.png)
 
 ## Status
-🔄 In Progress
+✅ Complete
+
+## Key Findings
+- Only **26% of medicines** are healthy stock — 42% are expired
+- **North West** has 4x more at-risk medicines than South West (42.3% vs 9.8%)
+- Cold chain failure leads to **5x more wastage** (34.88% vs 6.77%)
+- **0% counterfeit risk** where Track & Trace is enabled vs 2.85% where untracked
+- Only **17.5%** of medicines have Track & Trace enabled
+- **PHCs experience the most stockouts** — 3.15 events per 6 months on average
+- North West facilities have only **27.5 days of stock remaining** vs 114.7 days in South West
