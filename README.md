@@ -57,6 +57,8 @@ This project tries to make it visible. The data shows what that breakdown actual
 - **North West facilities have 27.5 days of stock left.** South West has 114.7. That's not a mere gap, it's a different reality entirely.
 - **Cold chain failure drives 5x more wastage.** For vaccines especially, there's no recovering from that.
 - **Track & Trace eliminates counterfeit risk where it's used** — but only 17.5% of medicines are tracked at all.
+- - **Only 26% of medicines are healthy stock** — 42% are expired, and the rest are at risk or unaccounted for.
+- **North West has 4x more at-risk medicines than South West** (42.3% vs 9.8%) — same country, completely different reality.
 
 The solutions aren't out of reach. The data exists. The tools exist. What this analysis argues, quietly but clearly, is that we can't keep managing a life-or-death supply chain on guesswork.
 
