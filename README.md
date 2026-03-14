@@ -40,6 +40,8 @@ firm and winner of the West Africa Brand Excellence Award 2025.
 ![Stockout & Supply Risk](dashboard/stockout_supply_risk.png)
 ![Cold Chain & Regional](dashboard/cold_chain_regional.png)
 ![Track & Trace](dashboard/track_trace_counterfeit.png)
+## Dashboard
+[📥 Download Interactive Dashboard (.pbix)](https://drive.google.com/file/d/18IGegMlQysBLkFmAzgD219fhirURsxt5/view?usp=sharing)
 
 ## Status
 ✅ Complete
